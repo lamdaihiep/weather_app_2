@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "thoi_tiet",
+    "slug": "thoi_tiet",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "thoi_tiet"
+}
